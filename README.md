@@ -146,9 +146,6 @@ App runs at: `http://localhost:8080`
 
 ---
 
-## 📚 Reference
-
-This project was built by following along with and extending the work of [Ali Bouali](https://github.com/ali-bouali/spring-boot-3-jwt-security). All implementation here represents my own understanding and working code.
 
 ---
 
